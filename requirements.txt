@@ -1,0 +1,6 @@
+asgiref==3.7.2
+Django==4.2.7
+dnspython==2.4.2
+pymongo==4.5.0
+sqlparse==0.4.4
+tqdm==4.66.1

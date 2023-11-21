@@ -1,0 +1,7 @@
+google.com
+facebook.com
+youtube.com
+twitter.com
+cnn.com
+nytime.com
+instagram.com
